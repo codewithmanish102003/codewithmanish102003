@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Manish, a passionate developer focused on crea
 - **Backend:** Node.js, Express.js, GraphQL
 - **Database:** Mongodb , MySQL 
 - **Frameworks:** React.js,Next.js, Bootstrap 
-- **Tools & Platforms:** Git, GitHub, VS Code, Netlify
+- **Tools & Platforms:** Git, GitHub, VS Code, Netlify , Render , Cloudinary 
 
 ---
 
