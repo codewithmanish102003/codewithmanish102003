@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm Manish, a passionate developer focused on crea
 
 ## 🔧 Tech Stack
 
-- **Languages:** JavaScript, Typescript, C, CPP , Python , Core Java
+- **Languages:** JavaScript, Typescript, C, CPP , Python , Core Java , PHP
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, GraphQL, Rest API,Django
+- **Backend:** Node.js, Express.js, GraphQL, Rest API
 - **Database:** Mongodb , MySQL 
-- **Frameworks:** React.js,Next.js, Bootstrap 
+- **Frameworks:** React.js, Next.js, Bootstrap, Django
 - **Tools & Platforms:** Git, GitHub, VS Code, Netlify , Render , Cloudinary 
 
 ---
