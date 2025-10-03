@@ -1,5 +1,4 @@
 # 👨‍💻 Manish Prajapati  
-
 **Web Developer | Tech Enthusiast | Lifelong Learner**  
 
 ✨ Welcome to my GitHub profile! I’m **Manish**, a passionate developer crafting efficient, scalable, and user-friendly web applications. With a strong foundation in **C**, **JavaScript**, and backend technologies, I enjoy transforming ideas into reality through clean code.  
