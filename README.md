@@ -93,7 +93,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmanish102003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
 </div>
 
 ---
