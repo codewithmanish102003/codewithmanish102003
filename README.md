@@ -12,6 +12,8 @@
 
 ✨ Welcome to my GitHub profile! I'm **Manish**, a passionate developer crafting efficient, scalable, and user-friendly web applications. With a strong foundation in **C**, **JavaScript**, and backend technologies, I enjoy transforming ideas into reality through clean code.
 
+![Profile Views](https://komarev.com/ghpvc/?username=codewithmanish102003&color=3B82F6&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -35,13 +37,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithmanish102003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmanish102003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=8"/>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmanish102003&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 </div>
 
 ---
@@ -49,9 +50,11 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -59,9 +62,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1"/>
 </div>
 
 ---
@@ -69,9 +70,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmanish102003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
 </div>
 
 ---
@@ -80,9 +79,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codewme.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marveluniverse1942@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish2003prajapati)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewme.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marveluniverse1942@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish2003prajapati)
 
 </div>
 
@@ -92,30 +91,38 @@
 
 ```javascript
 const manish = {
-    currentlyLearning: ["Node.js", "Express.js", "System Design"],
-    workingOn: "Full-Stack Projects with MERN Stack",
-    openTo: "Open Source Contributions & Collaborations",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    learning: ["Node.js", "Express.js", "System Design"],
+    building: "Full-Stack Projects with MERN",
+    exploring: "Open Source Contributions",
+    goal: "Building impactful solutions 🚀"
 };
 ```
 
----
-
-## 💭 Dev Quote
-
 <div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+**🔥 Mastering Node.js & Express.js**  
+**🏗️ Building Full-Stack Projects**  
+**🌱 Open Source Contributions**
 
 </div>
 
 ---
 
-## 👀 Profile Views
+## 💭 Random Dev Quote
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## ✨ Quote  
+
+<div align="center">
+
+> *"Code is not just instructions to the machine, but poetry for the curious mind."*  
 
 </div>
 
@@ -123,8 +130,8 @@ const manish = {
 
 <div align="center">
 
-### 🔥 *Thanks for visiting! Let's connect and build something amazing.* 🚀
+### 🔥 **Thanks for visiting! Let's connect and build something amazing.** 🚀
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16"/>
 
 </div>
