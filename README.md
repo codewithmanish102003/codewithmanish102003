@@ -62,15 +62,38 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1"/>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+<details>
+<summary>🎯 Alternative Trophy Styles (Click to expand)</summary>
+<br>
+
+**Option 1: Compact with Background**
+```markdown
+![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&column=4&margin-w=15&margin-h=15)
+```
+
+**Option 2: Dark Theme**
+```markdown
+![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=darkhub&no-frame=true&column=7)
+```
+
+**Option 3: Gradient**
+```markdown
+![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=radical&column=7&no-bg=true)
+```
+
+</details>
 
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmanish102003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
 </div>
 
 ---
