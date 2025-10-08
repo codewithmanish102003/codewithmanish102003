@@ -1,7 +1,18 @@
-# 👨‍💻 Manish Prajapati  
-**Web Developer | Tech Enthusiast | Lifelong Learner**  
+# 👨‍💻 Manish Prajapati
 
-✨ Welcome to my GitHub profile! I’m **Manish**, a passionate developer crafting efficient, scalable, and user-friendly web applications. With a strong foundation in **C**, **JavaScript**, and backend technologies, I enjoy transforming ideas into reality through clean code.  
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9A%A1;Lifelong+Learner+%F0%9F%93%9A;Building+Amazing+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Welcome to my GitHub profile! I'm **Manish**, a passionate developer crafting efficient, scalable, and user-friendly web applications. With a strong foundation in **C**, **JavaScript**, and backend technologies, I enjoy transforming ideas into reality through clean code.
+
+</div>
 
 ---
 
@@ -21,26 +32,99 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🌐 Portfolio & Contact  
 
-- 🔗 [**Portfolio Website**](https://codewme.netlify.app)  
-- 📫 **Email:** marveluniverse1942@gmail.com  
-- 💼 [**LinkedIn**](https://linkedin.com/in/manish2003prajapati)  
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codewme.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marveluniverse1942@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish2003prajapati)
+
+</div>
 
 ---
 
 ## 📌 Current Focus  
 
-- 🔥 Mastering **Node.js** & **Express.js**  
-- 🏗️ Building impactful **Full-Stack Projects**  
-- 🌱 Diving into **Open Source Contributions**  
+```javascript
+const manish = {
+    currentlyLearning: ["Node.js", "Express.js", "System Design"],
+    workingOn: "Full-Stack Projects with MERN Stack",
+    openTo: "Open Source Contributions & Collaborations",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
 ---
 
-## ✨ Quote  
+## 💭 Dev Quote
 
-> *“Code is not just instructions to the machine, but poetry for the curious mind.”*  
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
-🔥 **Thanks for visiting! Let’s connect and build something amazing.** 🚀  
+## 👀 Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 *Thanks for visiting! Let's connect and build something amazing.* 🚀
+
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
