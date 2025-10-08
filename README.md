@@ -67,29 +67,6 @@
 
 </div>
 
-<details>
-<summary>🎯 Alternative Trophy Styles (Click to expand)</summary>
-<br>
-
-**Option 1: Compact with Background**
-```markdown
-![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&column=4&margin-w=15&margin-h=15)
-```
-
-**Option 2: Dark Theme**
-```markdown
-![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=darkhub&no-frame=true&column=7)
-```
-
-**Option 3: Gradient**
-```markdown
-![trophy](https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=radical&column=7&no-bg=true)
-```
-
-</details>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
