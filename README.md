@@ -21,7 +21,7 @@
 ## 🚀 Tech Stack  
 
 ### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
