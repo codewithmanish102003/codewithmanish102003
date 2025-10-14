@@ -115,8 +115,8 @@ const manish = {
 
 <div align="center">
 
-<a href="https://github.com/codewithmanish102003/Employee_Management_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Employee_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
+<a href="https://github.com/codewithmanish102003/dosedefence-transition-creation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=dosedefence-transition-creation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
 </a>
 <a href="https://github.com/codewithmanish102003/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
@@ -187,7 +187,7 @@ const manish = {
 
 <div align="center">
   
-[![Spotify](https://novatorem-kappa-sand.vercel.app/api/spotify)](https://open.spotify.com/user/31uyqliucbwibiy47oji73dpmfhq)
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20with%20me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31uyqliucbwibiy47oji73dpmfhq)
 
 </div>
 
