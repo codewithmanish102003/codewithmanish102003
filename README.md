@@ -101,7 +101,7 @@ const manish = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmanish102003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
 </div>
 
-<div align="center">
+<div align="center" margin-top="5px">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake.svg">
@@ -115,10 +115,10 @@ const manish = {
 
 <div align="center">
 
-<a href="https://github.com/codewithmanish102003/project1">
+<a href="https://github.com/codewithmanish102003/Employee_Management_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
 </a>
-<a href="https://github.com/codewithmanish102003/project2">
+<a href="https://github.com/codewithmanish102003/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
 </a>
 
@@ -187,7 +187,7 @@ const manish = {
 
 <div align="center">
   
-[![Spotify](https://novatorem-kappa-sand.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+[![Spotify](https://novatorem-kappa-sand.vercel.app/api/spotify)](https://open.spotify.com/user/31uyqliucbwibiy47oji73dpmfhq)
 
 </div>
 
