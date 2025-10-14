@@ -116,7 +116,7 @@ const manish = {
 <div align="center">
 
 <a href="https://github.com/codewithmanish102003/Chat-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Chat-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
 </a>
 <a href="https://github.com/codewithmanish102003/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
