@@ -1,43 +1,87 @@
-# 👨‍💻 Manish Prajapati
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manish%20Prajapati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Code%20Craftsman&descAlignY=55&descAlign=50"/>
+</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%92%BB;Tech+Enthusiast+%E2%9A%A1;Lifelong+Learner+%F0%9F%93%9A;Building+Amazing+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality+%F0%9F%9A%80;Building+Scalable+Solutions+%F0%9F%92%BB;Crafting+Beautiful+Interfaces+%E2%9C%A8;Always+Learning+%F0%9F%93%9A;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=codewithmanish102003&color=3B82F6&style=for-the-badge&label=VISITORS"/>
+  <img src="https://img.shields.io/github/followers/codewithmanish102003?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github"/>
+  
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-✨ Welcome to my GitHub profile! I'm **Manish**, a passionate developer crafting efficient, scalable, and user-friendly web applications. With a strong foundation in **C**, **JavaScript**, and backend technologies, I enjoy transforming ideas into reality through clean code.
+```typescript
+const manish = {
+    location: "India 🇮🇳",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "TypeScript", "C", "C++", "Python", "Java"],
+    currentFocus: {
+        learning: ["System Design", "Microservices", "DevOps"],
+        building: "Production-ready MERN applications",
+        exploring: "Web3 & Blockchain technologies"
+    },
+    architecture: ["Serverless", "REST APIs", "GraphQL", "Microservices"],
+    communities: {
+        active: ["Open Source", "Dev.to", "Stack Overflow"],
+        seeking: "Exciting collaboration opportunities"
+    },
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=codewithmanish102003&color=3B82F6&style=flat-square&label=Profile+Views)
+<details>
+<summary>📖 More about me</summary>
+<br>
 
-</div>
+- 🔭 Currently working on **Full-Stack MERN Projects**
+- 🌱 Deep diving into **Node.js, Express.js, and System Design**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, JavaScript, React, Node.js**
+- 📫 Reach me: **marveluniverse1942@gmail.com**
+- ⚡ Fun fact: **Coffee + Code = Magic** ☕️✨
+
+</details>
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ My Arsenal
 
-### 💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)  ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)  
-
-### ⚙️ Backend & Databases  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)  ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)  ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)  ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=fastapi)  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)  
-
-### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)  ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)  ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)  ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)  ![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary)  
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>💻 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,python,java&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql,django&perline=3" />
+    </td>
+    <td align="center" width="25%">
+      <h3>🔧 Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,cloudflare&perline=3" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithmanish102003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithmanish102003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmanish102003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&langs_count=8"/>
 </div>
 
@@ -45,9 +89,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmanish102003&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+</div>
+
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmanish102003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
+</div>
 
 <div align="center">
   <picture>
@@ -59,71 +111,106 @@
 
 ---
 
-## 📈 Activity Graph
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmanish102003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=E5E7EB&area=true&area_color=3B82F6"/>
+
+<a href="https://github.com/codewithmanish102003/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
+</a>
+<a href="https://github.com/codewithmanish102003/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/codewithmanish102003?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 🌐 Portfolio & Contact  
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+---
+
+## 🎯 Current Goals for 2025
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/api.png" width="40"/>
+      <br><strong>Master System Design</strong>
+      <br>Building scalable architectures
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/>
+      <br><strong>Contribute to Open Source</strong>
+      <br>Give back to the community
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40"/>
+      <br><strong>Launch 5 Projects</strong>
+      <br>Ship production-ready apps
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/learning.png" width="40"/>
+      <br><strong>Learn DevOps</strong>
+      <br>CI/CD & Cloud deployment
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewme.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marveluniverse1942@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish2003prajapati)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-3B82F6?style=for-the-badge)](https://codewme.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marveluniverse1942@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish2003prajapati)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read_My_Blogs-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
 
 </div>
 
 ---
 
-## 📌 Current Focus  
-
-```javascript
-const manish = {
-    learning: ["Node.js", "Express.js", "System Design"],
-    building: "Full-Stack Projects with MERN",
-    exploring: "Open Source Contributions",
-    goal: "Building impactful solutions 🚀"
-};
-```
-
-<div align="center">
-
-**🔥 Mastering Node.js & Express.js**  
-**🏗️ Building Full-Stack Projects**  
-**🌱 Open Source Contributions**
-
-</div>
-
----
-
-## 💭 Random Dev Quote
+## 🎵 Spotify Playing
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Spotify](https://novatorem-kappa-sand.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
 
 </div>
 
 ---
 
-## ✨ Quote  
+## 💖 Support My Work
 
 <div align="center">
 
-> *"Code is not just instructions to the machine, but poetry for the curious mind."*  
+If you like my work, consider buying me a coffee! ☕️
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourhandle)
 
 </div>
 
 ---
 
 <div align="center">
+  
+### 💡 *"Code is poetry written in logic"*
 
-### 🔥 **Thanks for visiting! Let's connect and build something amazing.** 🚀
+### ⭐️ From [Manish Prajapati](https://github.com/codewithmanish102003) | Let's build something amazing together! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
