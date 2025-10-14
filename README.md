@@ -115,8 +115,8 @@ const manish = {
 
 <div align="center">
 
-<a href="https://github.com/codewithmanish102003/dosedefence-transition-creation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=dosedefence-transition-creation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
+<a href="https://github.com/codewithmanish102003/Chat-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
 </a>
 <a href="https://github.com/codewithmanish102003/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=E5E7EB" />
@@ -176,8 +176,6 @@ const manish = {
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-3B82F6?style=for-the-badge)](https://codewme.netlify.app)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marveluniverse1942@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish2003prajapati)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read_My_Blogs-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
 
 </div>
 
