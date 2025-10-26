@@ -89,12 +89,6 @@ const manish = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmanish102003&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithmanish102003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
