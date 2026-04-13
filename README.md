@@ -31,7 +31,7 @@ Full-Stack Developer from India, focused on building clean and scalable web appl
 ### Tech Stack
 
 **Languages**
-`JavaScript` `TypeScript` `C++` `Python` `Java`
+`JavaScript` `TypeScript` `C++` `Python`
 
 **Frontend**
 `React` `Next.js` `Tailwind CSS` `HTML` `CSS`
@@ -40,7 +40,7 @@ Full-Stack Developer from India, focused on building clean and scalable web appl
 `Node.js` `Express.js` `MongoDB` `MySQL` `GraphQL`
 
 **Tools**
-`Git` `GitHub` `VS Code` `Vercel` `Netlify` `Cloudflare`
+`Git` `GitHub` `VS Code` `Cloudflare`
 
 ---
 
