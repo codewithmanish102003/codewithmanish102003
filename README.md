@@ -58,20 +58,6 @@ Full-Stack Developer from India, focused on building clean and scalable web appl
 
 ---
 
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/codewithmanish102003/Chat-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Chat-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=E5E7EB"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/codewithmanish102003/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=E5E7EB"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake-dark.svg">
