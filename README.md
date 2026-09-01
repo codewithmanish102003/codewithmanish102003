@@ -47,27 +47,7 @@ Full-Stack Developer from India, focused on building clean and scalable web appl
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithmanish102003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=E5E7EB&count_private=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmanish102003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=E5E7EB&langs_count=6"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmanish102003&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/codewithmanish102003/Chat-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Chat-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=E5E7EB"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/codewithmanish102003/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithmanish102003&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=E5E7EB"/>
-  </a>
 </div>
 
 ---
