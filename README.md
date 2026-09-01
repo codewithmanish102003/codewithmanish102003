@@ -15,19 +15,19 @@
 ---
 ### About
 Full-Stack Developer from India, focused on building clean and scalable web applications. Currently deep-diving into **System Design** and **DevOps**. Open to collaborations on interesting open-source projects.
-
+```
 📍 India        🔭 MERN Stack        📬 marveluniverse1942@gmail.com
-
+```
 ---
 ### Tech Stack
 **Languages**
-JavaScript TypeScript C++ Python
+`JavaScript` `TypeScript` `C++` `Python`
 **Frontend**
-React Next.js Tailwind CSS HTML CSS
+`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
 **Backend**
-Node.js Express.js MongoDB MySQL GraphQL
+`Node.js` `Express.js` `MongoDB` `MySQL` `GraphQL`
 **Tools**
-Git GitHub VS Code Cloudflare
+`Git` `GitHub` `VS Code` `Cloudflare`
 ---
 ### GitHub Stats
 <div align="center">
