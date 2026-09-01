@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Manish%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%2F%20MERN%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=16&descColor=a78bfa"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Manish%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=16&descColor=a78bfa"/>
 </div>
 <br/>
 <div align="center">
@@ -12,60 +12,33 @@
   <img src="https://komarev.com/ghpvc/?username=codewithmanish102003&color=7c3aed&style=flat-square&label=visitors"/>
 </div>
 <br/>
-
 ---
-
 ### About
+Full-Stack Developer from India, focused on building clean and scalable web applications. Currently deep-diving into **System Design** and **DevOps**. Open to collaborations on interesting open-source projects.
 
-Backend-focused Full-Stack Developer from Jaipur, India, building with the **MERN stack** and **TypeScript**. Currently working as a Backend Developer at **Saalo Tech Innovations**, and running **Axorvia Studio**, my own dev studio, on the side — shipping client products end to end. Deep-diving into **System Design** and **DevOps** as I grow toward a broader Software Engineer role.
-
-```
-📍 Jaipur, India        💼 Saalo Tech Innovations        🚀 Axorvia Studio        📬 marveluniverse1942@gmail.com
-```
+📍 India        🔭 MERN Stack        📬 marveluniverse1942@gmail.com
 
 ---
-
-### Highlights
-
-- 🏗️ **Canscorp ERP** — construction management system; built PDF/Excel reporting (Puppeteer, ExcelJS) and integrated the Claude API for AI-generated report insights
-- 💊 **DoseRx** — electronic prescription & pharmacy platform
-- ⚖️ **Time To Legal** — legal CRM
-- ❤️ **CancerCare Mission** — NGO site with Razorpay/UPI donation integration
-- 🛍️ **Poppik Lifestyle** — e-commerce platform
-- 🎨 Experimental front-end builds exploring GSAP, Three.js, and scroll-driven interactions
-
----
-
 ### Tech Stack
-
 **Languages**
-`JavaScript` `TypeScript` `C++` `Python`
-
+JavaScript TypeScript C++ Python
 **Frontend**
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
-
+React Next.js Tailwind CSS HTML CSS
 **Backend**
-`Node.js` `Express.js` `MongoDB` `MySQL` `GraphQL`
-
+Node.js Express.js MongoDB MySQL GraphQL
 **Tools**
-`Git` `GitHub` `VS Code` `Cloudflare`
-
+Git GitHub VS Code Cloudflare
 ---
-
 ### GitHub Stats
-
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithmanish102003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=E5E7EB&count_private=true"/>
   &nbsp;
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmanish102003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=E5E7EB&langs_count=6"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmanish102003&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 </div>
-
 ---
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake-dark.svg">
@@ -73,7 +46,6 @@ Backend-focused Full-Stack Developer from Jaipur, India, building with the **MER
     <img alt="contribution snake" src="https://raw.githubusercontent.com/codewithmanish102003/codewithmanish102003/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 </div>
