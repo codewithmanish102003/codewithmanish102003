@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Manish%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=16&descColor=a78bfa"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Manish%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%2F%20MERN%20Stack%20Developer&descAlignY=58&descAlign=50&descSize=16&descColor=a78bfa"/>
 </div>
-
 <br/>
-
 <div align="center">
   <a href="https://codewme.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
@@ -13,18 +11,28 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=codewithmanish102003&color=7c3aed&style=flat-square&label=visitors"/>
 </div>
-
 <br/>
 
 ---
 
 ### About
 
-Full-Stack Developer from India, focused on building clean and scalable web applications. Currently deep-diving into **System Design** and **DevOps**. Open to collaborations on interesting open-source projects.
+Backend-focused Full-Stack Developer from Jaipur, India, building with the **MERN stack** and **TypeScript**. Currently working as a Backend Developer at **Saalo Tech Innovations**, and running **Axorvia Studio**, my own dev studio, on the side — shipping client products end to end. Deep-diving into **System Design** and **DevOps** as I grow toward a broader Software Engineer role.
 
 ```
-📍 India        🔭 MERN Stack        📬 marveluniverse1942@gmail.com
+📍 Jaipur, India        💼 Saalo Tech Innovations        🚀 Axorvia Studio        📬 marveluniverse1942@gmail.com
 ```
+
+---
+
+### Highlights
+
+- 🏗️ **Canscorp ERP** — construction management system; built PDF/Excel reporting (Puppeteer, ExcelJS) and integrated the Claude API for AI-generated report insights
+- 💊 **DoseRx** — electronic prescription & pharmacy platform
+- ⚖️ **Time To Legal** — legal CRM
+- ❤️ **CancerCare Mission** — NGO site with Razorpay/UPI donation integration
+- 🛍️ **Poppik Lifestyle** — e-commerce platform
+- 🎨 Experimental front-end builds exploring GSAP, Three.js, and scroll-driven interactions
 
 ---
 
